@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    padding: auto;  
+}
+
+
+.card-content{
+    width: 100% !important;
+    height: max-content !important;
+    padding: 15px;
+}
+
+.card-content{
+    width: 100%;
+    height: max-content;
+}
